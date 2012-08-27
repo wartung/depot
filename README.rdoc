@@ -1,4 +1,4 @@
-ashidfhskloföjdwsk dfgdf
+ashidfhskloföjdwsk
 
 == Welcome to Rails
 
